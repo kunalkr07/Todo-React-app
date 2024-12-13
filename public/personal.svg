@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" id="personal">
+  <g transform="translate(757.5 -1112.862)">
+    <rect width="36" height="36" x="-757.5" y="1112.862" fill="#f8b84e" rx="6" ry="6"></rect>
+    <path fill-rule="evenodd" d="M-279.493 1180.361a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992zm0 2a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992zm0 2a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992zm0 2a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992zm0 2a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992zm0 2a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992zm0 2a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992zm0 2a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992zm0 2a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992zm0 2a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992zm0 2a.5.5 0 1 0 0 1h.992a.5.5 0 1 0 0-1h-.992z" color="#000" font-family="sans-serif" font-weight="400" opacity=".141" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+    <path d="M-268.186 1178.862h3.691c1.385 0 2.5 1.115 2.5 2.5v19c0 1.385-1.115 2.5-2.5 2.5H-278.994v-24h7.63z" color="#000" opacity=".141" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+    <path fill="#34485c" d="M-267.191 1178.862h3.691c1.385 0 2.5 1.115 2.5 2.5v19c0 1.385-1.115 2.5-2.5 2.5H-278v-24h7.63z" color="#000" opacity=".94" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+    <path fill="none" stroke="#2b4255" stroke-linecap="round" stroke-linejoin="round" d="M-751.998 1120.862h.993m-.993 2h.993m-.993 2h.993m-.993 2h.993m-.993 2h.993m-.993 2h.993m-.993 2h.993m-.993 2h.993m-.993 2h.993m-.993 2h.993m-.993 2h.993"></path>
+    <path d="M-256.5 1182.862c-.831 0-1.5.67-1.5 1.5v16.5l1.5 3 .5 1 .5-1 1.5-3v-16.5c0-.83-.669-1.5-1.5-1.5h-1z" color="#000" opacity=".15" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+    <path fill="#f05542" d="M-257 1185.862h4v15h-4z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+    <path fill="#e9eded" d="M-257 1200.862h4l-2 4zm0-15v-1.5c0-.83.669-1.5 1.5-1.5h1c.831 0 1.5.67 1.5 1.5v1.5z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+    <path fill="none" stroke="#34485c" d="M-728.5 1140.862v-14"></path>
+    <path fill="#34485c" d="m-255.5 1203.862.5 1 .5-1h-1zM-257 1185.862h4v1h-4z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+    <path d="M-275 1183.362h10v4.5h-10z" color="#000" opacity=".141" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+    <path fill="#576d7e" d="M-273.996 1183.362h10v4.5h-10z" color="#000" opacity=".94" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+    <path d="M-267.991 1178.862h2v27l-1-1-1 1z" color="#000" opacity=".141" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+    <path fill="#f05542" d="M-266.996 1178.862h2v27l-1-1-1 1z" color="#000" opacity=".94" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-473.5 -60)"></path>
+  </g>
+</svg>
